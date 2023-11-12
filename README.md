@@ -10,8 +10,6 @@ Asegúrate de tener Node.js instalado en tu sistema. Si no lo tienes, puedes des
 Se requiere tener una base de datos MongoDB disponible. Si no la tienes, puedes instalarla localmente o utilizar un servicio en la nube como MongoDB Atlas.
 
 <h1>Instalación</h1>
-<h2>1_Clona el repositorio desde GitHub:</h2>
-    git clone https://github.com/feedeeg29/ENTREGA_FINAL_CODERHOUSE_43355_GIULIANI_FEDERICO.git
 <h2>2_Instala las dependencias utilizando npm:</h2>
     npm install 
 <h2>3_Crea un archivo .env en la raíz del proyecto y configura las variables de entorno necesarias. Ejemplo:</h2>
